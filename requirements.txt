@@ -1,0 +1,8 @@
+streamlit
+apify-client
+speech_recognition
+pandas
+numpy
+requests
+hashlib
+youtube-dl
